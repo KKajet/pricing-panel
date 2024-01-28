@@ -20,8 +20,8 @@ This is a simple pricing panel project from the Udemy course made in HTML and CS
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KKajet/ft-social-links-profile)
-- Live Site URL: [Add live site URL here](https://kkajet.github.io/ft-social-links-profile/)
+- Solution URL: [Add solution URL here](https://github.com/KKajet/pricing-panel/)
+- Live Site URL: [Add live site URL here](https://kkajet.github.io/pricing-panel/)
 
 ## My process
 
