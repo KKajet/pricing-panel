@@ -21,7 +21,7 @@ This is a simple pricing panel project from the Udemy course made in HTML and CS
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/KKajet/pricing-panel/)
-  - Live Site URL: [Live site URL here](https://kkajet.github.io/pricing-panel/)
+- Live Site URL: [Live site URL here](https://pricing-panel-vert.vercel.app/)
 
 ## My process
 
