@@ -1,7 +1,3 @@
-# Frontend Mentor - Social links profile solution
-
-This is a simple pricing panel project from the Udemy course made in HTML and CSS.
-
 ## Table of contents
 
 - [Overview](#overview)
